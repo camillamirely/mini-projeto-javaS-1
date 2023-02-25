@@ -1,0 +1,11 @@
+header, main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.button {
+    width: 80px;
+    background-color:rgba(238, 241, 3, 0.897);
+    font-size: 15px;
+}
